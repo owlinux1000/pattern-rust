@@ -1,8 +1,13 @@
 [package]
 name = "pattern"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["owlinux1000 <encry1024@gmail.com>"]
+license = "MIT"
 edition = "2018"
+description = "A command line tool to generate cyclic pattern"
+readme = "README.md"
+keywords = ["cyclic", "exploit-development"]
+
 
 [dependencies]
 clap = "2.33.0"
